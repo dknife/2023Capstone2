@@ -116,4 +116,6 @@
 
 [2020학년도 졸업논문 전체 논문집 PDF 파일](https://github.com/dknife/2019-/raw/master/%EB%85%BC%EB%AC%B8_%EC%99%84%EC%84%B1%EB%8B%A8%EA%B3%84/%EA%B2%8C%EC%9E%84%EA%B3%B5%ED%95%99%EA%B3%BC_2020_%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%EC%A7%80_%ED%95%A9%EB%B3%B8.pdf)
 
+
+<img src=https://github.com/dknife/Graphics2017/blob/master/images/solar.JPG height=150>
   
