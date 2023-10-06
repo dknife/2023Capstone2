@@ -130,6 +130,10 @@
 
 > 투더문
 
+> 팀1 과제 진행 발표 - 디펜스의 정석
+
+>> 프로젝트의 의미를 높이는 고민 필요
+
 [논문파일](https://github.com/dknife/2023Capstone2/tree/main/Resources)
 
 [게임챌린지 신청](https://form.office.naver.com/form/responseView.cmd?formkey=N2FjOTA0MTQtYjlkMS00NzgyLTk1MGQtN2JlOWUxODFlNmM2&sourceId=urlshare)
