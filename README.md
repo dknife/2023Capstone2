@@ -128,4 +128,6 @@
 
 [논문파일](https://github.com/dknife/2023Capstone2/tree/main/Resources)
 
+[게임챌린지 신청](https://form.office.naver.com/form/responseView.cmd?formkey=N2FjOTA0MTQtYjlkMS00NzgyLTk1MGQtN2JlOWUxODFlNmM2&sourceId=urlshare)
+
 <img src="https://github.com/dknife/2023Capstone2/blob/main/%ED%8F%AC%EC%8A%A4%ED%84%B0.PNG" height=600>
