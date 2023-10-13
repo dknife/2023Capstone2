@@ -142,5 +142,5 @@
 
 # 논문 작성 계획서
 
-[양식]()
+[양식](https://github.com/dknife/2023Capstone2/raw/main/Resources/(%EB%B6%99%EC%9E%842)%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%EA%B3%84%ED%9A%8D%EC%84%9C(%EC%98%88%EC%8B%9C).hwp)
 
