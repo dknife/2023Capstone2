@@ -144,3 +144,5 @@
 
 [양식](https://github.com/dknife/2023Capstone2/raw/main/Resources/(%EB%B6%99%EC%9E%842)%EC%A1%B8%EC%97%85%EB%85%BC%EB%AC%B8%EA%B3%84%ED%9A%8D%EC%84%9C(%EC%98%88%EC%8B%9C).hwp)
 
+# 중간고사
+## 중간고사 방식: 팀별 진행사항 발표 - 교수평가, 학급내 동료평가
