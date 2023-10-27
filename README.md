@@ -7,11 +7,11 @@
 
 # 산학융합 프로젝트 전시회 참여
 
-[전시회 모집 안내문](https://github.com/dknife/2023Capstone2/blob/main/Resources/ConvEx/1.%20%EC%A0%9C%205%ED%9A%8C%20SW%EC%9C%B5%ED%95%A9%EC%9E%91%ED%92%88%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B0%8F%20%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EB%AA%A8%EC%A7%91%20%EC%95%88%EB%82%B4%EB%AC%B8.hwp)
+[전시회 모집 안내문](https://github.com/dknife/2023Capstone2/raw/main/Resources/ConvEx/1.%20%EC%A0%9C%205%ED%9A%8C%20SW%EC%9C%B5%ED%95%A9%EC%9E%91%ED%92%88%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B0%8F%20%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EB%AA%A8%EC%A7%91%20%EC%95%88%EB%82%B4%EB%AC%B8.hwp)
 
-[전시신청서](https://github.com/dknife/2023Capstone2/blob/main/Resources/ConvEx/3.%20%EC%A0%9C%205%ED%9A%8C%20%EC%9E%91%ED%92%88%EC%A0%84%EC%8B%9C%EC%8B%A0%EC%B2%AD%EC%84%9C%20000%ED%8C%80_%EC%A7%80%EB%8F%84%EA%B5%90%EC%88%98%20%EC%84%B1%EB%AA%85(%EC%96%91%EC%8B%9D)%20(2).hwp)
+[전시신청서](https://github.com/dknife/2023Capstone2/raw/main/Resources/ConvEx/3.%20%EC%A0%9C%205%ED%9A%8C%20%EC%9E%91%ED%92%88%EC%A0%84%EC%8B%9C%EC%8B%A0%EC%B2%AD%EC%84%9C%20000%ED%8C%80_%EC%A7%80%EB%8F%84%EA%B5%90%EC%88%98%20%EC%84%B1%EB%AA%85(%EC%96%91%EC%8B%9D)%20(2).hwp)
 
-[전시회 심사표](https://github.com/dknife/2023Capstone2/blob/main/Resources/ConvEx/2.%20%EC%A0%9C%205%ED%9A%8C%20SW%EC%9C%B5%ED%95%A9%EC%9E%91%ED%92%88%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B0%8F%20%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EC%8B%AC%EC%82%AC%ED%91%9C.hwp)
+[전시회 심사표](https://github.com/dknife/2023Capstone2/raw/main/Resources/ConvEx/2.%20%EC%A0%9C%205%ED%9A%8C%20SW%EC%9C%B5%ED%95%A9%EC%9E%91%ED%92%88%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B0%8F%20%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EC%8B%AC%EC%82%AC%ED%91%9C.hwp)
 
 # 과제
 
