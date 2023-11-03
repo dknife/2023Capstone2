@@ -16,7 +16,7 @@
 
 ### 중간 평가 결과
 
-[중간 평가 결과]()
+[중간 평가 결과](https://github.com/dknife/2023Capstone2/blob/main/Resources/MidTerm/%EC%A4%91%EA%B0%84%ED%8F%89%EA%B0%80_%ED%8F%89%EA%B0%80%EA%B2%B0%EA%B3%BC.png)
 
 # 과제
 
