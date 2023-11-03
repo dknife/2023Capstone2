@@ -185,4 +185,4 @@
 
 ## 현재까지의 논문
 
-[2023 11 3]()
+[2023 11 3](https://github.com/dknife/2023Capstone2/tree/main/Resources/DraftPaper01)
