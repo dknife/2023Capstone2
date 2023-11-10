@@ -41,7 +41,9 @@
 
 1. 각 팀의 융합전시 작품 데모를 준비하여 예비 시연을 한다
    
-      
+2. 취업캠프 확인 [포스터](https://github.com/dknife/2023Capstone2/blob/main/Resources/jobcamp.png)
+
+   
 ### 팀 1: 디펜스의 정석
 
 팀원: 이지훈(이승욱), 김진훈(이승욱), 김민성 (이승욱)
