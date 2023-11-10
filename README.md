@@ -14,6 +14,11 @@
 [전시회 심사표](https://github.com/dknife/2023Capstone2/raw/main/Resources/ConvEx/2.%20%EC%A0%9C%205%ED%9A%8C%20SW%EC%9C%B5%ED%95%A9%EC%9E%91%ED%92%88%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20%EB%B0%8F%20%EC%A0%84%EC%8B%9C%ED%9A%8C%20%EC%8B%AC%EC%82%AC%ED%91%9C.hwp)
 
 
+# 융합전시 신청서 수정
+
+[신청서 수정]()
+
+
 ### 중간 평가 결과
 
 [중간 평가 결과](https://github.com/dknife/2023Capstone2/blob/main/Resources/MidTerm/%EC%A4%91%EA%B0%84%ED%8F%89%EA%B0%80_%ED%8F%89%EA%B0%80%EA%B2%B0%EA%B3%BC.png)
