@@ -16,7 +16,7 @@
 
 # 융합전시 신청서 수정
 
-[신청서 수정]()
+[신청서 수정](https://github.com/dknife/2023Capstone2/tree/main/Resources/ConvExhibition)
 
 
 ### 중간 평가 결과
