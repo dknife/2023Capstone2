@@ -201,6 +201,8 @@
 
 [2023 11 3](https://github.com/dknife/2023Capstone2/tree/main/Resources/DraftPaper01)
 
+[2023 11 17 - 융합전시신청서 기반 수정 + 양식 정비 예시](https://github.com/dknife/2023Capstone2/tree/main/Resources/DraftPapersV02)
+
 # 융합전시 신청서 수정
 
 [신청서 수정](https://github.com/dknife/2023Capstone2/tree/main/Resources/ConvExhibition)
