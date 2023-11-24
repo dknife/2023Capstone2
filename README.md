@@ -208,4 +208,8 @@
 
 [신청서 수정](https://github.com/dknife/2023Capstone2/tree/main/Resources/ConvExhibition)
 
+# 게임 챌린지 참가 신청서
+
+[신청서](https://github.com/dknife/2023Capstone2/raw/main/Resources/GameChallenge/%EA%B2%8C%EC%9E%84%EC%B1%8C%EB%A6%B0%EC%A7%80_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%84%A4%EB%AA%85%EC%84%9C.hwp)
+
 
